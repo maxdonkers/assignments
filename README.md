@@ -15,3 +15,5 @@
 final: 
 
 [final assignment part Python](https://github.com/maxdonkers/assignments/blob/master/exam_june_7_2018.ipynb)
+
+[final assignment part R](https://github.com/maxdonkers/assignments/blob/master/Exam_student.ipynb)
