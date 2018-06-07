@@ -10,3 +10,7 @@
 [graded assignment 1](https://github.com/maxdonkers/assignments/blob/master/Graded_assignment1.ipynb)
 
 [graded assignment 2](https://github.com/maxdonkers/assignments/blob/master/Graded_assignment_2.ipynb)
+
+
+final: 
+[final assignment part Python] (https://github.com/maxdonkers/assignments/blob/master/exam_june_7_2018.ipynb)
